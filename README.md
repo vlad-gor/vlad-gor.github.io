@@ -1,8 +1,7 @@
 
 Vladimir Goryunov
 
-Personal page
-
-# vlad-gor.github.io
+Personal page:
+https://vlad-gor.github.io
 
 About myself
