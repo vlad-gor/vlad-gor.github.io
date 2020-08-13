@@ -1,7 +1,15 @@
 
-Vladimir Goryunov
+Владимир Горюнов
 
-Personal page:
+Персональная страница:
 https://vlad-gor.github.io
 
-About myself
+О себе
+
+Интересы
+Образование
+Проекты
+Навыки
+Опыт работы
+Курсы и сертификаты
+
